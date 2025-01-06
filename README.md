@@ -6,7 +6,7 @@
 
 # 为好的内容买单
 <details>
-<summary>------</summary>
+<summary>------点我展开</summary>
 
 - 系统需要开放` API `才有开发者愿意开发适配，确保生态系统的可持续发展与功能扩展
 - 设计需要一定`标准规范`才能统一体验，提高开发效率，同时降低沟通成本。
@@ -35,7 +35,7 @@
 
 ## 2.WeChat自定义 `Assets` 图标命名汇总
 <details>
-<summary>------</summary>
+<summary>------点我展开</summary>
 
 - [2.1. 微信 `8.0.55` 版本图标命名（等待补充）](docs/WeChat/WeChat_8.0.55图标汇总.md)
 
@@ -47,7 +47,7 @@
 ## [3.现有的Sketch项目使用](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/tree/main/%E5%85%B6%E4%BB%96/01%E8%AF%A5%E4%B8%BB%E9%A2%98%E5%AE%8C%E6%95%B4%E9%A1%B9%E7%9B%AE%E6%96%87%E4%BB%B6%EF%BC%88Sketch%EF%BC%89)
 
 <details>
-<summary>------</summary>
+<summary>------点我展开</summary>
 <br>
 我想，你也能站在我的肩膀上。使用我制作这份主题时的`完整Sketch`项目文件，用我设置好的`图标命名`、`规划整理`的好的答题卡，快速进行适配制作。你只管设计，所有`界面分区`我都已经设置好了。<br>我说过，你不用关注这些脚手架问题，你只需要盯着官方`WeChat`的界面，用发挥创意的大脑去想:这里的`图标`和`颜色`怎么设计，`风格`和`思路`即可。
 
@@ -60,7 +60,7 @@
 
 ## 5.主题的封包
 <details>
-<summary>------</summary>
+<summary>------点我展开</summary>
 <br>
 
 这些辛苦制作的内容都是你的`知识产权`，无论你选择公开`无偿`分享还是封包`售卖`，都是你具有的权利。<br>
@@ -72,7 +72,7 @@
 
 ## 6.一切就绪，整理项目文件结构
 <details>
-<summary>------</summary>
+<summary>------点我展开</summary>
 不要将所有文件堆叠到顶层文件夹，后期维护比较费劲。推荐的目录结构：
 </details>
 
