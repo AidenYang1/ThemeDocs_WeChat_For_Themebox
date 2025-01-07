@@ -204,10 +204,14 @@
 ### 6.1. 语音条
 |     | 解释        |                  图标命名                   | 1 x 基本尺寸 | 说明  |
 | :-- | :-------- | :-------------------------------------: | :------- | :-- |
-|     | 语音条播放状态 1 | ChatRoom_Bubble_Voice_Receiver_Playing1 | 24*24    |     |
-|     | 语音条播放状态 2 | ChatRoom_Bubble_Voice_Receiver_Playing2 |          |     |
-|     | 语音条播放状态 3 | ChatRoom_Bubble_Voice_Receiver_Playing3 |          |     |
-|     | 正常状态      |     ChatRoom_Bubble_Voice_Receiver      |          |     |
+|     | 语音条播放状态 1 | ChatRoom_Bubble_Voice_Receiver_Playing1 | 24*24    | 接收方 |
+|     | 语音条播放状态 2 | ChatRoom_Bubble_Voice_Receiver_Playing2 |          | -   |
+|     | 语音条播放状态 3 | ChatRoom_Bubble_Voice_Receiver_Playing3 |          | -   |
+|     | 正常状态      |     ChatRoom_Bubble_Voice_Receiver      |          | -   |
+|     | 发送方播放状态1  |  ChatRoom_Bubble_Voice_Sender_Playing1  |          | 发送方 |
+|     | 发送方播放状态2  |  ChatRoom_Bubble_Voice_Sender_Playing1  |          | -   |
+|     | 发送方播放状态3  |  ChatRoom_Bubble_Voice_Sender_Playing2  |          | -   |
+|     | 发送方正常状态   |  ChatRoom_Bubble_Voice_Sender_Playing3  |          | -   |
 
 
 ## 7. 聊天页长按图片操作
