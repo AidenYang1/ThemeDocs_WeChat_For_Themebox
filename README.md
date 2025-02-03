@@ -6,7 +6,7 @@
 
 <br>
 
-# 1. 基于归档版后的主题适配
+# 1. 基于1.2.3归档版后的主题适配
 此部分为`iMessage主题`归档版不再对外更新主题后，基于[最后归档版本](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/releases/tag/formal-v1.2.3)`v1.2.3`之后的部分更新命名，**但不再提供素材**。
 你可继续使用`v1.2.3`的素材，在其基础上自行适配新的图标命名。
 ## v1.2.4（请等待正式版发布）
