@@ -1,6 +1,6 @@
 
-# 最新：该文档已按照55版本整理。
-- 如果你需要快速知道 `55` 版本的单独命名，在此页面使用浏览器页面查找搜索 `#55` 即可快速跳转查看所有55单独变化的命名。
+# 最新：该文档已按照55+版本整理。
+- 如果你需要快速知道每个版本新增内容，例如 `55` 版本的单独命名，在此页面使用浏览器页面查找搜索 `#55` 即可快速跳转查看所有55单独变化的命名。
 - 没有标注 `#55` 标签的表示与 `WeChat` 前一版本相同，保持不变。
 - `@@` 标签表示已适配，但未整理。
 - `@@@` 标签表示未知，欢迎补充。（页面查找此定位符快速帮助完善文档）
@@ -123,19 +123,25 @@
 |     | 转文字   |     convert_to_text_filled      |          |                  |
 |     | 删除    |         trash_on_filled         |          |                  |
 |     | 多选    |  icons_filled_multiple_choice   |          |                  |
+|     | 背景播放    |  icons_filled_miniwindow   |          |  #56 单独          |
 |     | 引用    |       icons_filled_quote        |          |                  |
 |     | 提醒    |         bell_on_filled          |          |                  |
 |     | 转发    |          share_filled           |          |                  |
 |     | 搜一搜   | icons_filled_WeChatSearchEmblem |          |                  |
 |     | 复制    |           doc_filled            |          | #55 单独           |
 |     | 隐藏转文字 |         eyes_off_filled         |          |                  |
+|     | 反馈错误 |  icons_filled_feedback_error    |          |                  |
+|     | 更换语言 |  icons_filled_transfer_language      |          |                  |
+|     | 静音播放 |  icons_red_story_volume_off      |          |                  |
 
 ### 2.2. 第三方插件气泡长按动作
 |     | 解释   |          图标命名           | 1 x 基本尺寸  | 说明  |
 | :-- | :--- | :---------------------: | :------ | :-- |
 |     | 小丑   |       expression        | 30 x 30 |     |
-|     | 转语音  |         等待整理补充          |         |     |
+|     | 转语音  |      icons_filled_radar          |         |     |
 |     | 语音复读 | icons_filled_nearby_hot |         |     |
+|     | 添加字体 | icons_outlined_font |         |     |
+|     | 导入字体 | icons_filled_text |         |     |
 
 
 ## 3. 输入栏区
@@ -219,6 +225,7 @@
 | :-- | :---------- | :------------------------: | :------- | :-------- |
 |     | 保存图片        |      download_filled       | 30*30    |           |
 |     | 查看聊天记录中更多图片 | icons_filled_img_photowall |          |           |
+|     | 此聊天中的图片视频 | icon_outlined_picture |          | #56 单独 |
 |     | 编辑图片        |  pencil_rectangle_regular  |          |           |
 |     | 提取文字        |     icons_outlined_ocr     |          |           |
 |     | 其他未标注的      |             -              |          | 与其他地方图标共用 |
@@ -243,6 +250,9 @@
 | :-- | :------ | :------------: | :------- | :------------------------- |
 |     | 评论      | bubble_regular | 30*30    | 会偏大，但是因与其他页面评论图标共用，会影响其他页面 |
 |     | 点赞      | heart_regular  |          |                            |
+|     | 朋友圈置顶      | icons_filled_top  |          |                            |
+|     | 部分人可见      | person_2_filled  |          |                            |
+|     | 删除朋友圈      | trash_on_regular  |          |                            |
 |     | 第三方插件转发 |  欢迎补充<br>@@@   |          |                            |
 
 
@@ -253,7 +263,7 @@
 |     | 转发        |           share_filled            |          |                   |     |
 |     | 分享到朋友圈    |          Action_Moments           |          |                   |     |
 |     | 在看        |           news_regular            |          |                   |     |
-|     | 在电脑上打开    |            欢迎补充<br>@@@            |          |                   |     |
+|     | 在电脑上打开    | icons_filled_othersticker            |          |                   |     |
 |     | 在浏览器打开    |                 -                 |          | 黄白助手引用该图标命名，两者共用  |     |
 |     | 微信读书中打开   |            欢迎补充<br>@@@            |          |                   |     |
 |     | 发送到我的企业   |            欢迎补充<br>@@@            |          |                   |     |
@@ -261,6 +271,7 @@
 |     | 分享到 QQ    |               AS_QQ               |          |                   |     |
 |     | 分享到 QQ 空间 |           Action_qzone            |          |                   |     |
 |     | 更多打开方式    |        weapp_more_darkmode        |          |                   |     |
+|     | 在小程序工具中打开    |        weapp_corner_icon_light<br>weapp_corner_icon_dark        |          |    #56 单独               |     |
 |     | 浮窗        |     icons_outlined_multitask      |          | 微信助手工具栏内“浮窗”共用此图标 |     |
 |     | 听全文       |       icon_outlined_listen        |          |                   |     |
 |     | 稍后听       |    icons_outlined_listen_later    |          |                   |     |
